@@ -16,7 +16,7 @@
     "react-scripts": "^3.4.1",
     "schema-utils": "^2.6.6"
   },
-  "homepage": "http://vik625.github.io/mobishaala",
+  "homepage": "https://github.com/vik625/Mobishaala",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
