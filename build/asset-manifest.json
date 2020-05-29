@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/mobishaala/static/js/main.7f1f5709.chunk.js",
-    "main.js.map": "/mobishaala/static/js/main.7f1f5709.chunk.js.map",
-    "runtime-main.js": "/mobishaala/static/js/runtime-main.47dc0411.js",
-    "runtime-main.js.map": "/mobishaala/static/js/runtime-main.47dc0411.js.map",
-    "static/js/2.cc9781a0.chunk.js": "/mobishaala/static/js/2.cc9781a0.chunk.js",
-    "static/js/2.cc9781a0.chunk.js.map": "/mobishaala/static/js/2.cc9781a0.chunk.js.map",
-    "index.html": "/mobishaala/index.html",
-    "precache-manifest.cb5964fd10f2fb169e26d7c260bf8ea5.js": "/mobishaala/precache-manifest.cb5964fd10f2fb169e26d7c260bf8ea5.js",
-    "service-worker.js": "/mobishaala/service-worker.js",
-    "static/js/2.cc9781a0.chunk.js.LICENSE.txt": "/mobishaala/static/js/2.cc9781a0.chunk.js.LICENSE.txt"
+    "main.js": "/vik625/Mobishaala/static/js/main.7f1f5709.chunk.js",
+    "main.js.map": "/vik625/Mobishaala/static/js/main.7f1f5709.chunk.js.map",
+    "runtime-main.js": "/vik625/Mobishaala/static/js/runtime-main.864010e5.js",
+    "runtime-main.js.map": "/vik625/Mobishaala/static/js/runtime-main.864010e5.js.map",
+    "static/js/2.cc9781a0.chunk.js": "/vik625/Mobishaala/static/js/2.cc9781a0.chunk.js",
+    "static/js/2.cc9781a0.chunk.js.map": "/vik625/Mobishaala/static/js/2.cc9781a0.chunk.js.map",
+    "index.html": "/vik625/Mobishaala/index.html",
+    "precache-manifest.667260a2a56115d8e5da0f763c412f4d.js": "/vik625/Mobishaala/precache-manifest.667260a2a56115d8e5da0f763c412f4d.js",
+    "service-worker.js": "/vik625/Mobishaala/service-worker.js",
+    "static/js/2.cc9781a0.chunk.js.LICENSE.txt": "/vik625/Mobishaala/static/js/2.cc9781a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.47dc0411.js",
+    "static/js/runtime-main.864010e5.js",
     "static/js/2.cc9781a0.chunk.js",
     "static/js/main.7f1f5709.chunk.js"
   ]
