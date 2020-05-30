@@ -2,8 +2,8 @@ import React from 'react';
 // import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 
 import Home from "./components/home.component";
-//import './components/imageSlider.css';
-//import './components/boxedButton.css';
+import './imageSlider.css';
+import './boxedButton.css';
 
 function App() {
   return (

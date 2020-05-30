@@ -29,7 +29,7 @@ class ImageCarousel extends Component {
         return (
             <div id="imageSlider">
                 <div className="row">
-                    <div id="slider-container" style={{height: 350}} className="slider">
+                    <div id="slider-container" className="slider">
                         <div className="slide">
                             <img className = 'shadow-lg' src="https://mobishaala-assets.s3.amazonaws.com/media/institute/60e05ca6-db8e-4e4a-96ac-93b7ab1f50bf/banner/image1559640610634.jpg" alt=""/>
                         </div>

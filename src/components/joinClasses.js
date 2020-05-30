@@ -7,16 +7,16 @@ class JoinClasses extends Component {
         return (
             <div id='joinClasses' className = 'jumbotron'>
 
-                <div className = 'container row' style = {{paddingLeft: 200, paddingRight: 100}}>
-                <div className = 'col-lg-6'>
-                        <h2 style = {{marginTop: -20}}>Join Classes</h2>
-                        <h4><b>Download <font style = {{color:'#2980b9'}}>Mobishaala</font> App</b></h4><br/>
-                        <h4><b>Use Institute code <font style = {{color:'#2980b9'}}>PICS1005</font></b></h4><br/>
-                        <img style = {{width: 170, height: 50}} src='https://prabhaics.com/assets/playstore.png'/>
-                        <img style = {{width: 170, height: 50, marginLeft: 10}} src='https://prabhaics.com/assets/appstore.svg'/>
+                <div className = 'container row' style = {{}}>
+                    <div className = 'col-lg-6 col-md-6 col-sm-12 col-12' style = {{textAlign: 'center'}}>
+                            <h2>Join Classes</h2>
+                            <h4><b>Download <font style = {{color:'#2980b9'}}>Mobishaala</font> App</b></h4><br/>
+                            <h4><b>Use Institute code <font style = {{color:'#2980b9'}}>PICS1005</font></b></h4><br/>
+                            <img style = {{width: 170, height: 50, marginBottom: 20}} src='https://prabhaics.com/assets/playstore.png'/>
+                            <img style = {{width: 170, height: 50, marginLeft: 10, marginBottom: 20}} src='https://prabhaics.com/assets/appstore.svg'/>
                     </div>
-                    <div className = 'col-lg-6' style = {{marginTop: -40}}>
-                        <img style = {{float: 'right'}} src="https://i.ibb.co/5xZwtHD/phone.png" alt="phone" border="0"/>
+                    <div className = 'col-lg-6 col-md-6 col-sm-12 col-12' style = {{textAlign: 'center'}}>
+                        <img src="https://i.ibb.co/5xZwtHD/phone.png" alt="phone" border="0"/>
                     </div>
                 </div>
             </div>   

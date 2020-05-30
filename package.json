@@ -16,7 +16,7 @@
     "react-scripts": "^3.4.1",
     "schema-utils": "^2.6.6"
   },
-  "homepage": "https://github.com/vik625/Mobishaala",
+  "homepage": "http://vik625.github.io/Mobishaala",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
@@ -41,11 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0",
-	"css-loader": "^3.5.3"
-  },
-  "sideEffects": [
-	    "*.css"
-  ]
-
+    "gh-pages": "^2.2.0"
+  }
 }

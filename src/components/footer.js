@@ -12,7 +12,7 @@ class Footer extends Component {
                             <h4 class="white-text">
                                 Prabha Institute of Civil Services
                             </h4> 
-                            <p style = {{fontSize : '13px', width: 500}} class="grey-text text-lighten-4">
+                            <p style = {{fontSize : '13px',}} class="grey-text text-lighten-4">
                                 Prabha institute of Civil Services was established on 15th
                                 August, 2002 for the benefit of the students who want to prepare for Public Administration
                                 but find limited options when it comes to Hindi medium. From 2002 till date we have been

@@ -5,12 +5,10 @@
     overflow-y: hidden;
     overflow-x: scroll !important;
     padding: 16px;
-    transform: scroll(calc(var(--i,0)/var(--n)*-100%));
     scroll-behavior: smooth;
  }
   .slider::-webkit-scrollbar {
     height: 5px;
-    width: 150px;
     display: none;
  }
   .slider::-webkit-scrollbar-track {
@@ -24,9 +22,9 @@
  }
   .slider img:hover {
     transform: scale(1.05);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.15);
  }
   .slide {
- 
     position: relative;
  }
   .slide img {
@@ -88,64 +86,7 @@
  .overlay.active{
    display: block;
  }
-  @media only screen and (max-width: 420px) {
-    #imageSlider {
-        width: 260px;
-        margin-left: auto;
-        margin-right: auto
-    }
 
-    .slider {
-      padding: 0;
-   }
-    .slide {
-      padding: 16px 10px;
-   }
-    .slide img {
-      margin: 0;
-   }
-    .control-prev-btn {
-      top: 37%;
-   }
-    .control-next-btn {
-      top: 37%;
-   }
- }
-
-@media only screen and (max-width: 993px) {
-    #imageSlider {
-	    margin-top: 40px;
-    }
-
-    #searchBar {
-      display : none;
-    }
-
-    #iiitgLogo {
-      text-align: center;
-    }
-}
-
-.bottomDots {
-  width: 92%;
-}
-
-@media only screen and (max-width: 993px) {
-  #makeCenter div {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .bottomDots {
-    width: 65%;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .bottomDots {
-    width: 82%;
-  }
-}
 
 
 /* @media only screen and (min-width: 768px) {
@@ -158,3 +99,9 @@
     display: none;
   }
 } */
+
+@media only screen and (max-width: 420px) {
+
+
+}
+

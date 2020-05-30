@@ -15,29 +15,29 @@ class Books extends Component {
 
                         <img
                             src = 'https://prabhaics.com/assets/b1.jpg'
-                            style = {{height: 330, cursor: 'pointer'}}
-                            className = 'col-lg-3'
+                            style = {{height: 330, cursor: 'pointer', marginBottom: 50}}
+                            className = 'col-lg-3 col-md-4 col-sm-6 col-6'
                             onClick = {() => {window.location.href='https://www.amazon.in/POLITY-NCERT-SAAR-VI-XII-English/dp/9383315644/ref=sr_1_1?m=AGHGGPQMIBWVH&marketplaceID=A21TJRUUN4KGV&qid=1572866104&s=merchant-items&sr=1-1'}}
                         />
 
                         <img
                             src = 'https://prabhaics.com/assets/b2.jpg'
-                            style = {{height: 330, cursor: 'pointer'}}
-                            className = 'col-lg-3'
+                            style = {{height: 330, cursor: 'pointer', marginBottom: 50}}
+                            className = 'col-lg-3 col-md-4 col-sm-6 col-6'
                             onClick = {() => {window.location.href='https://www.amazon.in/History-Hindi-N-C-R-T-SAR/dp/8192756513/ref=sr_1_2?m=AGHGGPQMIBWVH&marketplaceID=A21TJRUUN4KGV&qid=1572866104&s=merchant-items&sr=1-2'}}
                         />
 
                         <img
                             src = 'https://prabhaics.com/assets/b3.jpg'
-                            style = {{height: 330, cursor: 'pointer'}}
-                            className = 'col-lg-3'
+                            style = {{height: 330, cursor: 'pointer', marginBottom: 50}}
+                            className = 'col-lg-3 col-md-4 col-sm-6 col-6'
                             onClick = {() => {window.location.href='https://www.amazon.in/Vastunist-Ncert-Saar-VI-XII-Lohiya/dp/B07VNW515H/ref=sr_1_3?m=AGHGGPQMIBWVH&marketplaceID=A21TJRUUN4KGV&qid=1572866104&s=merchant-items&sr=1-3'}}
                         />
 
                         <img
                             src = 'https://prabhaics.com/assets/b4.jpg'
-                            style = {{height: 330, cursor: 'pointer'}}
-                            className = 'col-lg-3'
+                            style = {{height: 330, cursor: 'pointer', marginBottom: 50}}
+                            className = 'col-lg-3 col-md-4 col-sm-6 col-6'
                             onClick = {() => {window.location.href='https://www.amazon.in/Rajvaystha-NCERT-VI-XII-Lohiya-Manoj/dp/819275653X/ref=sr_1_4?m=AGHGGPQMIBWVH&marketplaceID=A21TJRUUN4KGV&qid=1572866104&s=merchant-items&sr=1-4'}}
                         />
 

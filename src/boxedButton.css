@@ -10,7 +10,6 @@
 .activeDot {
     background-color: #000000;
 }
-
 .boxed-btn3-lightBlue-2 {
     color: white !important;
     background-color: #2980b9;
@@ -40,4 +39,10 @@
 
   .theme-background {
     background-color: #2980b9 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  #floatRightButtons {
+    display: none;
+  }
 }
